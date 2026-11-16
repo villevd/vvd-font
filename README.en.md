@@ -109,3 +109,9 @@ Derivative works must be renamed, hence **Adventor SlashV**.
 ## Disclaimer
 
 This project was created with the help of **Cursor Pro+**.
+
+## Local Development Setup
+
+These files are intentionally kept out of Git (secrets, personal data, generated output or machine-specific state). After a fresh clone, recreate them as follows:
+
+- `fonts/input/avantgarde/*.TTF`: The licensed ITC Avant Garde source fonts (AVGARDN, AVGARDD, AVGARDDO). They cannot be redistributed: place your own copies there before running the scripts.

@@ -109,3 +109,9 @@ URW Gothic / Avant Garde. Distribuée sous la **GUST Font License** (LPPL). Les
 ## Avertissement
 
 Ce projet a été réalisé avec l'aide de **Cursor Pro+**.
+
+## Installation pour le développement local
+
+Ces fichiers sont volontairement exclus de Git (secrets, données personnelles, sorties générées ou état propre à la machine). Après un clone neuf, recréez-les ainsi :
+
+- `fonts/input/avantgarde/*.TTF`: Les polices sources ITC Avant Garde sous licence (AVGARDN, AVGARDD, AVGARDDO). Elles ne peuvent pas être redistribuées : placez-y vos propres copies avant de lancer les scripts.
