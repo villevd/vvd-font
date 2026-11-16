@@ -1,0 +1,15 @@
+__pycache__/
+*.py[cod]
+.Python
+.venv/
+venv/
+.env
+.DS_Store
+Thumbs.db
+scripts/_angles/
+
+# Proprietary AvantGarde sources — keep local only
+fonts/input/avantgarde/*.ttf
+fonts/input/avantgarde/*.otf
+fonts/input/avantgarde/*.TTF
+fonts/input/avantgarde/*.OTF
