@@ -1,4 +1,5 @@
-<!-- lang -->[Français](README.md) | **English**
+<!-- lang -->
+[Français](README.md) | **English**
 
 A Python tool that modifies the **V** to follow the logotype of the
 City of Val-d'Or: a **vertical** left stroke joined to a diagonal
