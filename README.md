@@ -1,4 +1,5 @@
-<!-- lang -->**Français** | [English](README.en.md)
+<!-- lang -->
+**Français** | [English](README.en.md)
 
 Outil Python qui modifie le **V** pour suivre le logotype de la
 Ville de Val-d'Or : un trait gauche **vertical** joint à une diagonale
